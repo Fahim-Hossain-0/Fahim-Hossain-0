@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
- <img src="https://github.com/Fahim-Hossain-0/Fahim-Hossain-0/blob/main/YourBannerFileName.png" alt="Dunya Banner" width="100%">
-
+  <img src="https://raw.githubusercontent.com/Fahim-Hossain-0/Fahim-Hossain-0/main/banner-img.png" alt="Banner" width="100%">
 </p>
+
 
 # Fahim Hossain  
 ### Full Stack Web Developer (React, Node.js, MongoDB, JavaScript, Tailwind CSS, HTML, CSS)
