@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Earth_from_Space.jpg/1280px-Earth_from_Space.jpg" alt="Dunya Banner" width="100%">
+ <img src="https://github.com/Fahim-Hossain-0/Fahim-Hossain-0/blob/main/YourBannerFileName.png" alt="Dunya Banner" width="100%">
+
 </p>
 
 # Fahim Hossain  
